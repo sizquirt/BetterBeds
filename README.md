@@ -1,7 +1,8 @@
 # BetterBeds
 Removes the BlockEntityRenderer from the bed and replaces it with the default minecraft model renderer.  
 This results in increased performance and resourcepack support!
-  
+(my attempt to fix for 1.20)  
+
 But where's the catch, you may ask.  
 Well, there is no catch, everything behaves the same as vanilla.
   
